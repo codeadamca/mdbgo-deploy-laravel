@@ -7,7 +7,7 @@ Deploying a basic Laravel application to a MDB GO server.
 
 ***
 
-## Repository Requirements:
+## Repo Resources
 
 * [MDB GO](https://mdbgo.com/)
 * [MDB GO Custom Domain](https://mdbgo.com/docs/custom-domains/mdbgo-subdomains/)
